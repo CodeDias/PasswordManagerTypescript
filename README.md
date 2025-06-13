@@ -54,7 +54,7 @@ PasswordManagerTypescript/    \
 │   └── index.ts        \
 ├── passwords.json      \
 ├── package.json        \
-├── tsconfig.json
+├── tsconfig.json       \
 └── README.md           
 
 ## ✨ Melhorias Futuras
