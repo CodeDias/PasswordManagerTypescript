@@ -16,8 +16,8 @@ Este projeto é um gerenciador de senhas que permite salvar, consultar, editar e
 
 ## 🚀 Instalação
 
-```git clone https://github.com/CodeDias/PasswordManagerTypescript.git```
-```cd PasswordManagerTypescript```
+```git clone https://github.com/CodeDias/PasswordManagerTypescript.git```\
+```cd PasswordManagerTypescript```\
 ```npm install```
 
 ##  ▶️ Executando o Gerenciador
