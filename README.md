@@ -26,7 +26,6 @@ Este projeto é um gerenciador de senhas que permite salvar, consultar, editar e
 
 ## 🔐 Como Usar
 
-🔐 Como Usar
 - Ao iniciar o programa, será solicitada a senha mestre para acessar o gerenciador (senha padrão: 123).
 
 - Depois de autenticado, você poderá:
